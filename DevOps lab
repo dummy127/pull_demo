@@ -1,0 +1,2 @@
+Configure a Jenkins job to fetch code from a Git repository(eg.GitHub) set up a trigger to automatically build on commits to a specific branch. use the jenkins pipeline to build and test the code .
+Execute any 5 docker commands and explain their outputs.
