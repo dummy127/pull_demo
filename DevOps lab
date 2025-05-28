@@ -1,2 +1,6 @@
 Configure a Jenkins job to fetch code from a Git repository(eg.GitHub) set up a trigger to automatically build on commits to a specific branch. use the jenkins pipeline to build and test the code .
 Execute any 5 docker commands and explain their outputs.
+
+create an aspnet application to show the use of master page and theme concept 
+
+reate a web page to display the cricket score from the table event (id, name,score). Refresh the website automatically after every thrity seconds.
